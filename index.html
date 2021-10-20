@@ -584,35 +584,36 @@
 
                     <!-- Request Form -->
                     <div class="form-container">
-                        <form name="requestform" method="POST" data-netlify="true" >
+                        <form name="requestform" method="POST" data-netlify="true"  >
+				
                             <div class="form-group">
-                                <input type="text" class="form-control-input" name="rname" required>
+                                <input id="rname" type="text" class="form-control-input" name="rname" required>
                                 <label class="label-control" for="rname" >Full name</label>
-                                <div class="help-block with-errors"></div>
+                               
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control-input"  name="remail" required>
+                                <input id="remail" type="email" class="form-control-input"  name="remail" required>
                                 <label class="label-control" for="remail" >Email</label>
-                                <div class="help-block with-errors"></div>
+                               
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control-input" name="rphone" required>
+                                <input id="rphone" type="text" class="form-control-input" name="rphone" required>
                                 <label class="label-control" for="rphone">Phone</label>
-                                <div class="help-block with-errors"></div>
+                                
                             </div>
                             <div class="form-group">
                                 <select class="form-control-select"  name="plan" required>
                                     <option class="select-option" value="" disabled selected>Interested in...</option>
-                                    <option class="select-option" value="Personal Loan">Starter</option>
-                                    <option class="select-option" value="Car Loan">Medium</option>
-                                    <option class="select-option" value="House Loan">Complete</option>
-                                    <option class="select-option" value="Loan">Special Offer</option>
+                                    <option class="select-option" value="starter">Starter</option>
+                                    <option class="select-option" value="medium">Medium</option>
+                                    <option class="select-option" value="complete">Complete</option>
+                                    <option class="select-option" value="specialoffer">Special Offer</option>
                                 </select>
-                                <div class="help-block with-errors"></div>
+                                
                             </div>
                             <div class="form-group checkbox">
                                 <input type="checkbox" name="rterms" required>I agree with GoDiGi's stated <a href="privacy-policy.html">Privacy Policy</a> and <a href="terms-conditions.html">Terms & Conditions</a>
-                                <div class="help-block with-errors"></div>
+                                
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="form-control-submit-button">REQUEST</button>
