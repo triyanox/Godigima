@@ -860,6 +860,14 @@ input[type='checkbox'] {
 	margin-top: 0.625rem;
 }
 
+.basic-1 .list-unstyled .fas {
+	color: #763ABE;
+	line-height: 1.375rem;
+}
+
+.basic-1 .list-unstyled .media-body {
+	margin-left: 0.625rem;
+}
 
 /*************************/
 /*     08. Details 2     */
