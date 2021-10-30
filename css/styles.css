@@ -1,12 +1,5 @@
-/* Template: Evolo - StartUp HTML Landing Page Template
-   Author: Inovatik
-   Created: June 2019
-   Description: Master CSS file
-*/
 
-/*****************************************
-Table Of Contents:
-
+/*
 01. General Styles
 02. Preloader
 03. Navigation
@@ -1133,7 +1126,7 @@ input[type='checkbox'] {
 /*     11. Request     */
 /***********************/
 .form-1 {
-	padding-top: 6.875rem;
+	padding-top: 3.875rem;
 	padding-bottom: 6.25rem;
 	background-color: #f9fafc;
 }
