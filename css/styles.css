@@ -1127,7 +1127,7 @@ input[type='checkbox'] {
 /***********************/
 .form-1 {
 	padding-top: 8.875rem;
-	padding-bottom: 9.25rem;
+	padding-bottom: 5.25rem;
 	background-color: #f9fafc;
 }
 
@@ -1409,7 +1409,7 @@ input[type='checkbox'] {
 /*     15. Contact     */
 /***********************/
 .form-2 {
-	padding-top: 4rem;
+	padding-top: 6rem;
 	padding-bottom: 4.25rem;
 	background: url('../images/contact-background.jpg') center center no-repeat;
 	background-size: cover; 
