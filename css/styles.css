@@ -44,7 +44,7 @@ html {
 }
 
 body, p {
-	color: #626262; 
+	color: #000000; 
 	font: 400 0.875rem/1.375rem "Raleway", sans-serif;
 }
 
@@ -99,12 +99,12 @@ h6 {
 }
 
 a {
-	color: #626262;
+	color: #000000;
 	text-decoration: underline;
 }
 
 a:hover {
-	color: #626262;
+	color: #000000;
 	text-decoration: underline;
 }
 
@@ -235,7 +235,7 @@ a.white {
 	position: absolute;
 	top: 0.87rem;
 	left: 1.375rem;
-	color: #626262;
+	color: #000000;
 	opacity: 1;
 	font: 400 0.875rem/1.375rem "Raleway", sans-serif;
 	cursor: text;
@@ -269,7 +269,7 @@ a.white {
 	border: 1px solid #c4d8dc;
 	border-radius: 0.25rem;
 	background-color: #fff;
-	color: #626262;
+	color: #000000;
 	font: 400 0.875rem/1.875rem "Raleway", sans-serif;
 	transition: all 0.2s;
 	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
@@ -323,7 +323,7 @@ select::-ms-expand {
 	border: 1px solid #c4d8dc;
 	border-radius: 0.25rem;
 	background-color: #fff;
-	color: #626262;
+	color: #000000;
 	font: 400 0.875rem/1.75rem "Raleway", sans-serif;
 	transition: all 0.2s;
 }
@@ -384,12 +384,12 @@ input[type='checkbox'] {
 #pmsgSubmit.h3.text-center {
 	display: block;
 	margin-bottom: 0;
-	color: #626262;
+	color: #000000;
 	font: 400 1.125rem/1rem "Raleway", sans-serif;
 }
 
 .help-block.with-errors .list-unstyled {
-	color: #626262;
+	color: #000000;
 	font-size: 0.75rem;
 	line-height: 1.125rem;
 	text-align: left;
