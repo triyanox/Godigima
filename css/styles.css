@@ -1,16 +1,5 @@
 
 
-/*****************************************
-Colors:
-- Backgrounds - turquoise #763ABE
-- Backgrounds - blue #0079f9
-- Backgrounds - light gray #f7fcfd
-- Buttons, bullets, icons, links - turquoise #763ABE
-- Cards border, inputs border - light gray #c4d8dc
-- Text headers, navbar links - black #393939
-- Text body - black #626262
-******************************************/
-
 
 /******************************/
 /*     01. General Styles     */
@@ -549,7 +538,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #fff;
+	
 }
 
 .spinner {
