@@ -8,20 +8,20 @@
     <g id="Group_2" data-name="Group 2" transform="translate(-72 -110)">
       <g id="DIGI" transform="translate(110 117)">
         <g id="D" transform="translate(0 0)">
-          <path id="Rectangle_1" data-name="Rectangle 1" d="M18,0h0A18,18,0,0,1,36,18V149a0,0,0,0,1,0,0H18A18,18,0,0,1,0,131V18A18,18,0,0,1,18,0Z" transform="translate(43)" fill="#763abe"/>
-          <circle id="Ellipse_1" data-name="Ellipse 1" cx="39.5" cy="39.5" r="39.5" transform="translate(0 112)" fill="#763abe"/>
+          <path id="Rectangle_1" data-name="Rectangle 1" d="M18,0h0A18,18,0,0,1,36,18V149a0,0,0,0,1,0,0H18A18,18,0,0,1,0,131V18A18,18,0,0,1,18,0Z" transform="translate(43)" fill="#3D2C8D"/>
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="39.5" cy="39.5" r="39.5" transform="translate(0 112)" fill="#3D2C8D"/>
         </g>
         <g id="I" transform="translate(92.045 55.227)">
-          <rect id="Rectangle_2" data-name="Rectangle 2" width="31" height="79" rx="4" transform="translate(-0.045 38.773)" fill="#763abe"/>
-          <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="15.5" cy="16.5" rx="15.5" ry="16.5" transform="translate(-0.045 -0.227)" fill="#763abe"/>
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="31" height="79" rx="4" transform="translate(-0.045 38.773)" fill="#3D2C8D"/>
+          <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="15.5" cy="16.5" rx="15.5" ry="16.5" transform="translate(-0.045 -0.227)" fill="#3D2C8D"/>
         </g>
         <g id="I-2" data-name="I" transform="translate(224.591 55.227)">
-          <rect id="Rectangle_2-2" data-name="Rectangle 2" width="32" height="79" rx="4" transform="translate(0.409 38.773)" fill="#763abe"/>
-          <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0.409 -0.227)" fill="#763abe"/>
+          <rect id="Rectangle_2-2" data-name="Rectangle 2" width="32" height="79" rx="4" transform="translate(0.409 38.773)" fill="#3D2C8D"/>
+          <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0.409 -0.227)" fill="#3D2C8D"/>
         </g>
         <g id="G" transform="translate(135.307 50.625)">
-          <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="40.5" cy="39.5" rx="40.5" ry="39.5" transform="translate(-0.307 35.375)" fill="#763abe"/>
-          <text id="g-2" data-name="g" transform="translate(5.693 129.375)" fill="#763abe" font-size="127" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">g</tspan></text>
+          <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="40.5" cy="39.5" rx="40.5" ry="39.5" transform="translate(-0.307 35.375)" fill="#3D2C8D"/>
+          <text id="g-2" data-name="g" transform="translate(5.693 129.375)" fill="#3D2C8D" font-size="127" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">g</tspan></text>
         </g>
       </g>
       <g id="Layer_2" data-name="Layer 2" transform="translate(330.909 202.602)">
@@ -30,10 +30,10 @@
         </g>
         <g id="Paths" transform="translate(7.183 18.943)">
           <g id="Group_1" data-name="Group 1">
-            <path id="Path_1" data-name="Path 1" d="M103.381,6h-1.9L6.44,33.879A6.336,6.336,0,0,0,2,40.215V68.727A6.97,6.97,0,0,0,6.44,75.063l95.041,27.879h1.9a6.336,6.336,0,0,0,6.336-6.336V12.336A6.336,6.336,0,0,0,103.381,6Zm-47.2,89.338L22.28,85.2,26.4,111.812a9.187,9.187,0,0,0,9.187,8.237H49.842a8.87,8.87,0,0,0,6.653-3.168,10.771,10.771,0,0,0,2.534-8.237Z" transform="translate(-1.998 -6)" fill="#763abe"/>
-            <path id="Path_2" data-name="Path 2" d="M44.372,28.336a4.752,4.752,0,0,0,2.851-.634L59.9,21.366a6.376,6.376,0,1,0-5.7-11.4L41.521,16.3a6.336,6.336,0,0,0-2.851,8.554,6.653,6.653,0,0,0,5.7,3.485Z" transform="translate(76.019 1.127)" fill="#763abe"/>
-            <path id="Path_3" data-name="Path 3" d="M59.9,34.384,47.224,28.048a6.653,6.653,0,0,0-8.554,2.534,6.336,6.336,0,0,0,2.851,8.554l12.672,6.336a4.752,4.752,0,0,0,2.851.634,6.653,6.653,0,0,0,5.7-3.485A6.019,6.019,0,0,0,59.9,34.384Z" transform="translate(76.019 40.382)" fill="#763abe"/>
-            <path id="Path_4" data-name="Path 4" d="M44.336,31.972H57.008a6.336,6.336,0,0,0,0-12.672H44.336a6.336,6.336,0,0,0,0,12.672Z" transform="translate(76.056 22.835)" fill="#763abe"/>
+            <path id="Path_1" data-name="Path 1" d="M103.381,6h-1.9L6.44,33.879A6.336,6.336,0,0,0,2,40.215V68.727A6.97,6.97,0,0,0,6.44,75.063l95.041,27.879h1.9a6.336,6.336,0,0,0,6.336-6.336V12.336A6.336,6.336,0,0,0,103.381,6Zm-47.2,89.338L22.28,85.2,26.4,111.812a9.187,9.187,0,0,0,9.187,8.237H49.842a8.87,8.87,0,0,0,6.653-3.168,10.771,10.771,0,0,0,2.534-8.237Z" transform="translate(-1.998 -6)" fill="#3D2C8D"/>
+            <path id="Path_2" data-name="Path 2" d="M44.372,28.336a4.752,4.752,0,0,0,2.851-.634L59.9,21.366a6.376,6.376,0,1,0-5.7-11.4L41.521,16.3a6.336,6.336,0,0,0-2.851,8.554,6.653,6.653,0,0,0,5.7,3.485Z" transform="translate(76.019 1.127)" fill="#3D2C8D"/>
+            <path id="Path_3" data-name="Path 3" d="M59.9,34.384,47.224,28.048a6.653,6.653,0,0,0-8.554,2.534,6.336,6.336,0,0,0,2.851,8.554l12.672,6.336a4.752,4.752,0,0,0,2.851.634,6.653,6.653,0,0,0,5.7-3.485A6.019,6.019,0,0,0,59.9,34.384Z" transform="translate(76.019 40.382)" fill="#3D2C8D"/>
+            <path id="Path_4" data-name="Path 4" d="M44.336,31.972H57.008a6.336,6.336,0,0,0,0-12.672H44.336a6.336,6.336,0,0,0,0,12.672Z" transform="translate(76.056 22.835)" fill="#3D2C8D"/>
           </g>
         </g>
       </g>
